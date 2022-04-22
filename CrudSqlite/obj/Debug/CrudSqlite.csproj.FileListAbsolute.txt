@@ -1,0 +1,37 @@
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\CrudSqlite.exe.config
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.csprojResolveAssemblyReference.cache
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.frmPersona.resources
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.Properties.Resources.resources
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.csproj.GenerateResource.Cache
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\CrudSqlite.exe
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\CrudSqlite.pdb
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.exe
+c:\users\edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.pdb
+C:\Users\Edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\EntityFramework.dll
+C:\Users\Edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\EntityFramework.xml
+C:\Users\Edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edwin\documents\visual studio 2013\Projects\CrudSqlite\CrudSqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\CrudSqlite.exe.config
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\CrudSqlite.exe
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\CrudSqlite.pdb
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\EntityFramework.dll
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\EntityFramework.xml
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.csproj.AssemblyReference.cache
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.frmPersona.resources
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.Properties.Resources.resources
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.csproj.GenerateResource.cache
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.csproj.CopyComplete
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.exe
+C:\Users\rafae\Source\Repos\CrudSqlite\CrudSqlite\obj\Debug\CrudSqlite.pdb
